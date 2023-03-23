@@ -9,8 +9,8 @@ const Checkout = () => {
   const totalQty = useSelector(state => state.cart.totalQuantity)
   const totalAmount = useSelector(state => state.cart.totalAmount)
   return (
-    <Helmet title='Checkout'>
-      <CommonSection title='Checkout'/>
+    <Helmet title='checkout'>
+      <CommonSection title='checkout'/>
       <section>
         <Container>
           <Row>

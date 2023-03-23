@@ -72,8 +72,8 @@
               </Link>
               </ListGroupItem>
               <ListGroupItem className='ps-0 border-0'>
-              <Link to="">
-               Privacy Policy
+              <Link to="/dashboard/users">
+              dashboard
               </Link>
               </ListGroupItem>
               </ListGroup>
